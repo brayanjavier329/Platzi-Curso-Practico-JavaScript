@@ -1,3 +1,8 @@
 # Platzi-Curso-Practico-JavaScript
 
-#Esta es una prueba
+## Taller #1: Figuras Geómetricas
+
+- Primer paso: definir las fórmulas de área y perímetro
+- Segundo paso: implementar las formulas en JavaScript
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML
