@@ -1,12 +1,12 @@
 //codigo del cuadrado
 console.group('Cuadrados')
-const squareSide=5;
-console.log('Los lados del cuadrado miden: '+squareSide+' cm.');
+// const squareSide=5;
+// console.log('Los lados del cuadrado miden: '+squareSide+' cm.');
 
 function perimeterSquare(lado){
     return squareSide*4;
 }
-console.log('El perimetro del cuadrado es: '+perimeterSquare+' cm.');
+// console.log('El perimetro del cuadrado es: '+perimeterSquare+' cm.');
 
 const squareArea=squareSide*squareSide;
 console.log('El area del cuadrado es: '+squareArea+' cm².')
